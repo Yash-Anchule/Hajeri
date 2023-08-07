@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Attendance cheaker/app/src/main/res/layout/activity_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/Attendance cheaker/app/src/main/res/layout/activity_app_base.xml" value="0.25416666666666665" />
+        <entry key="..\:/Attendance cheaker/app/src/main/res/layout/activity_attendance.xml" value="0.25416666666666665" />
+        <entry key="..\:/Attendance cheaker/app/src/main/res/menu/mai_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Attendance cheaker/app/src/main/res/menu/note_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Attendance cheaker/app/src/main/res/menu/profile_menu.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/drawable-mdpi/ic_bot.xml" value="0.1025" />
+        <entry key="app/src/main/res/drawable-mdpi/ic_user.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cloud_download_24.xml" value="0.196" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_app_base.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_attendance.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_chat_bot.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/layout/activity_edit__student.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_main1.xml" value="0.17777777777777778" />
+        <entry key="app/src/main/res/layout/activity_note.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_scheduler.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/activity_student__registartion.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/base_layout.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/bot_msg.xml" value="0.115625" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/grid_layout.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/ic_bot.xml" value="0.12158054711246201" />
+        <entry key="app/src/main/res/layout/ic_user.xml" value="0.12158054711246201" />
+        <entry key="app/src/main/res/layout/list_ele.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/note_create.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/pick_period.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/schedule_create.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/stu_profile.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/layout/user_msg.xml" value="0.2740722656250001" />
+        <entry key="app/src/main/res/menu/mai_menu.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/menu/note_menu.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/menu/profile_menu.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/menu/scheduler_menu.xml" value="0.24791666666666667" />
+        <entry key="app/src/main/res/xml/pref_general.xml" value="0.24791666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
